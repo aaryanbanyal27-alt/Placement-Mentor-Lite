@@ -1,0 +1,11 @@
+Placement Mentor Lite — Classification Report
+==============================================
+
+              precision    recall  f1-score   support
+
+  Not Placed       0.67      0.20      0.31        20
+      Placed       0.64      0.93      0.76        30
+
+    accuracy                           0.64        50
+   macro avg       0.65      0.57      0.53        50
+weighted avg       0.65      0.64      0.58        50
